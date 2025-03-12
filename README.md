@@ -1,4 +1,4 @@
-# Projet d'Exemple avec Spring Boot et JPA
+# Projet avec Spring Boot et JPA
 
 Ce projet est un exemple de configuration de base pour démarrer un projet Spring Boot intégrant JPA (Java Persistence API). L'utilisation de JPA permet de simplifier le mapping entre les objets Java et la base de données relationnelle.
 
